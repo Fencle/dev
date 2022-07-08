@@ -1,0 +1,17 @@
+{
+    "description": "Fencle Dev",
+    "repo": "https://github.com/fencle/fencle.github.io",
+    "owner": {
+        "username": "fencle",
+        "email": "botcontactme@gmail.com",
+        "twitter": "TFncale"
+    },
+    "record": {
+        "CNAME": "fencle.github.io"
+    }
+{
+  "record": {
+    "TXT": "hello world"
+  }
+}
+} 
